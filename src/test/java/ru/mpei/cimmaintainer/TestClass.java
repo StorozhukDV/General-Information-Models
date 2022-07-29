@@ -1,4 +1,4 @@
-package ru.mpei.cimmaintainer;
+package src.test;
 
 import org.eclipse.rdf4j.model.Model;
 import org.eclipse.rdf4j.rio.RDFFormat;
